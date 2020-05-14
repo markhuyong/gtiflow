@@ -6,5 +6,4 @@ gitflow test
 # gitflowtest-two one
 # gitflowtest-two two
 # gitflowtest-three
-# gitflowtest-three one
 # gitflowtest-three two
